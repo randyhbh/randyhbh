@@ -19,7 +19,7 @@ I’m always up for a challenge, whether it's finding the perfect software archi
 ### 📫 Let's Connect!
 Feel free to reach out, whether you want to discuss tech, open-source, or just say hi!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com](https://www.linkedin.com/in/randy-hector-bartumeu-huergo/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randy-hector-bartumeu-huergo/)
 
 <!--
 **randyhbh/randyhbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
